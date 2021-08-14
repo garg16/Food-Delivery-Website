@@ -18,7 +18,7 @@ html, body{
     margin: 0 auto;
 }
 header{
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('/img/hero-image.jpeg');
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('img/hero-image.jpeg');
     height: 100vh;
     background-size: cover;
     background-position: centre;
@@ -260,7 +260,7 @@ h3{
     color: #555;
 }
 .our-customer{
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('/img/foodies-background-min.jpeg')   ;
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('img/foodies-background-min.jpeg')   ;
     height: 80vh;
     background-size: cover;
     background-position: centre;
